@@ -1,21 +1,20 @@
 # ***Rohnak Agarwal***
 
-Welcome to my profile!
+Hello fellow coder, welcome to my profile!
 
 ## **About me**
 
-Currently Intern at [Fynarfin.io](https://fynarfin.io/)
+Currently Software Engineer - R&D [Reverie Language Technologies](https://reverieinc.com/)
 - Python
+- Flutter
 - Docker
-- Kubernetes
-- Angular
-- Java
+
 
 ### **Links**
 
-|||
+| Particular | Link |
 | - | - |
-| portfolio | [http://rrka79wal.herokuapp.com/](http://rrka79wal.herokuapp.com/) |
+| Portfolio | [http://rrka79wal.herokuapp.com/](http://rrka79wal.herokuapp.com/) |
 | LinkedIn | [https://www.linkedin.com/in/rohnak-agarwal-5558391a0/](https://www.linkedin.com/in/rohnak-agarwal-5558391a0/) |
 | Credly | [https://www.credly.com/users/rohnak-agarwal/badges](https://www.credly.com/users/rohnak-agarwal/badges) |
 
@@ -45,5 +44,8 @@ Contact me at: [rrka79wal@gmail.com](rrka79wal@gmail.com)
 
 ## **Hobbies**
 
-- Coding
-- Poems
+- Working on creative and interesting projects
+- Writing Poems
+
+
+Happy Coding!
