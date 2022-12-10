@@ -14,7 +14,6 @@ Currently Software Engineer - R&D [Reverie Language Technologies](https://reveri
 
 | Particular | Link |
 | - | - |
-| Portfolio | [http://rrka79wal.herokuapp.com/](http://rrka79wal.herokuapp.com/) |
 | LinkedIn | [https://www.linkedin.com/in/rohnak-agarwal-5558391a0/](https://www.linkedin.com/in/rohnak-agarwal-5558391a0/) |
 | Credly | [https://www.credly.com/users/rohnak-agarwal/badges](https://www.credly.com/users/rohnak-agarwal/badges) |
 
